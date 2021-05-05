@@ -8,7 +8,7 @@ categories: project update
 
 ## Invitation
 <img src="/assets/cards_logo.png" style="float: right; width: 140px; margin-left: 20px; margin-right: 20px; margin-top: -20px;" />
-We cordially invite you to the *Workshop on Digital Card Game Design* on **April 11th 2021**, which takes place on Zoom. Please find the workshop description and program below.
+We cordially invite you to the *Workshop on Digital Card Game Design* on **May 11th 2021**, which takes place on Zoom. Please find the workshop description and program below.
 
 **Organizers.**
 Karel Millenaar (FourceLabs/HvA), Anders Bouwer (HvA) and Riemer van Rozen (CWI).
