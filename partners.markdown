@@ -6,23 +6,23 @@ permalink: /partners/
 <table style="border:hidden;">
 <tr>
 <td style="border:hidden;">
-<img src="/assets/HvA.png" height=50/>
+<img src="/assets/HvA.png" style="height:50px"/>
 </td>
 <td style="border:hidden;">
-<img src="/assets/DGA.png" height=80/>
+<img src="/assets/DGA.png" style="height:80px"/>
 </td>
 </tr>
 </table>
 <table style="border:hidden;">
 <tr>
 <td style="border:hidden;">
-<img src="/assets/CWI.png" height=60/>
+<img src="/assets/CWI.png" style="height:60px"/>
 </td>
 <td style="border:hidden;">
-<img src="/assets/Codeglue.png" height=50/>
+<img src="/assets/Codeglue.png" style="height:50px"/>
 </td>
 <td style="border:hidden;">
-<img src="/assets/FourceLabs.png" height=50/>
+<img src="/assets/FourceLabs.png" style="height:50px"/>
 </td>
 </tr>
 </table>
