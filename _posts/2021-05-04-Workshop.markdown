@@ -5,9 +5,9 @@ date:   2021-05-04 15:25:00 +0100
 author: Riemer van Rozen
 categories: project update
 ---
-<img src="/assets/cards_logo.png" style="float: right; width: 140px; margin-left: 60px; margin-right: 20px; margin-top: 20px;" />
 
 ## Invitation
+<img src="/assets/cards_logo.png" style="float: right; width: 140px; margin-left: 60px; margin-right: 20px; margin-top: -20px;" />
 We cordially invite you to the *Workshop on Digital Card Game Design* on **April 11th 2021**, which takes place on Zoom. Please find the workshop description and program below.
 
 **Organizers.**
