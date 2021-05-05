@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Workshop on Digital Card Game Design"
+date:   2021-05-04 15:25:00 +0100
+author: Riemer van Rozen
+categories: project update
+---
+<img src="/assets/cards_logo.png" style="float: right; width: 140px; margin-left: 60px; margin-right: 20px; margin-top: 20px;" />
+
+## Invitation
+We cordially invite you to the *Workshop on Digital Card Game Design* on **April 11th 2021**, which takes place on Zoom. Please find the workshop description and program below.
+
+**Organizers.**
+Karel Millenaar (FourceLabs/HvA), Anders Bouwer (HvA) and Riemer van Rozen (CWI).
+
+**Register.**
+Participation is free of charge. Anyone can join. Please let us know you are coming.
+
+**Zoom link.**
+Will be posted here.
+
+### Program
+The following program is tentative and may still change.
+
+| Time                 | Activity                                        |
+|:---------------------|:------------------------------------------------|
+| 15:00 - 15:10   | Welcome                              |
+| 15:10 - 15:40   | Presentation and demonstration       |
+| 15:40 - 16:00   | Coffee break                         |
+| 16:00 - 17:00   | Feedback and discussion              |
+
+**Abstract.**
+Card game design is a well-known technique for prototyping turn-based card games in particular and interactive experiences in general.
+Card game prototypes enable designers to create physical metaphors that foreground a game’s rules for freely experimenting, play testing and exploring alternative designs, at a table in a mediated setting.
+We aim to empower designers with a set of digital card game tools that help automate the design process.
+During this workshop, we present and discuss initial steps toward such a tool set.
+We share a tool prototype [1], not as a solution for professional use, but for obtaining feedback that helps focus future R&D. Together, workshop participants will discuss and determine next steps, by relating their goals, needs and experiences.
+
+[1] Midas Buitink. Card Game Toolkit, August 2020. [https://github.com/Okatt/CardGameToolkit](https://github.com/Okatt/CardGameToolkit)
