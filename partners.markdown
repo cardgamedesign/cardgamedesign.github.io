@@ -3,29 +3,12 @@ layout: page
 title: Partners
 permalink: /partners/
 ---
-<table style="border:hidden;">
-<tr>
-<td style="border:hidden;">
-<img src="/assets/HvA.png" style="height:50px"/>
-</td>
-<td style="border:hidden;">
-<img src="/assets/DGA.png" style="height:80px"/>
-</td>
-</tr>
-</table>
-<table style="border:hidden;">
-<tr>
-<td style="border:hidden;">
-<img src="/assets/CWI.png" style="height:60px"/>
-</td>
-<td style="border:hidden;">
-<img src="/assets/Codeglue.png" style="height:50px"/>
-</td>
-<td style="border:hidden;">
-<img src="/assets/FourceLabs.png" style="height:50px"/>
-</td>
-</tr>
-</table>
+<img src="/assets/HvA.png" style="height:50px; margin-top: 10px; margin-left: 10px; margin-right: 20px;"/>
+<img src="/assets/CWI.png" style="height:60px; margin-top: 10px; margin-left: 20px; margin-right: 20px;"/>
+<img src="/assets/DGA.png" style="height:80px; margin-top: 10px; margin-left: 10px; margin-right: 20px;"/>
+<img src="/assets/Codeglue.png" style="height:50px; margin-top: 10px; margin-left: 20px; margin-right: 20px;"/>
+<img src="/assets/FourceLabs.png" style="height:50px; margin-top: 10px; margin-left: 20px; margin-right: 20px;"/>
+
 ## Consortium
 * [Amsterdam University of Applied Sciences] - [Lectoraat Civic Interaction Design]
 * [Centrum Wiskunde & Informatica] - [Software Analysis & Transformation]
