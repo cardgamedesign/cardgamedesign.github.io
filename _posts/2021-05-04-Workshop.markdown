@@ -34,6 +34,6 @@ Card game design is a well-known technique for prototyping turn-based card games
 Card game prototypes enable designers to create physical metaphors that foreground a game’s rules for freely experimenting, play testing and exploring alternative designs, at a table in a mediated setting.
 We aim to empower designers with a set of digital card game tools that help automate the design process.
 During this workshop, we present and discuss initial steps toward such a tool set.
-We share a tool prototype [1], not as a solution for professional use, but for obtaining feedback that helps focus future R&D. Together, workshop participants will discuss and determine next steps, by relating their goals, needs and experiences.
+We show a tool prototype [1], not as a solution for professional use, but for obtaining feedback that helps focus future R&D. Together, workshop participants will discuss and determine next steps, by relating their goals, needs and experiences.
 
 [1] Midas Buitink. Card Game Toolkit, August 2020. [https://github.com/Okatt/CardGameToolkit](https://github.com/Okatt/CardGameToolkit)
