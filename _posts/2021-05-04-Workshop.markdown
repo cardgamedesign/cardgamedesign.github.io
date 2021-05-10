@@ -12,7 +12,7 @@ We cordially invite you to the *Workshop on Tools for Digital Card Game Design* 
 The meeting takes place online via Google Meet video call.
 Please find the workshop description and program below.
 
-**Organizers.**
+**Organization.**
 This workshop is organized by the lectorate Civic Interaction Design at the Amsterdam University of Applied Science (HvA) together with FourceLabs and the Software Analysis & Transformation group of Centrum Wiskunde Informatica (CWI), in the context of the DGA Gaming Field Lab project ‘A Digital Prototyping Tool for Card Game Design’.
 The organizers are: Karel Millenaar (FourceLabs/HvA), Anders Bouwer (HvA) and Riemer van Rozen (CWI).
 
@@ -39,8 +39,8 @@ We aim to empower designers with a set of digital card game tools that help auto
 During this workshop, we present and discuss initial steps toward such a tool set.
 We show a tool prototype, not as a solution for professional use, but for obtaining feedback that helps focus future R&D. Together, workshop participants will discuss and determine next steps, by relating their goals, needs and experiences.
 
-### Tool
-The tool prototype and its manual are available for download here: [https://drive.google.com/drive/folders/17qACyFPDwLahBV_Z2Mxk2nNhKiJazNUH?usp=sharing](https://drive.google.com/drive/folders/17qACyFPDwLahBV_Z2Mxk2nNhKiJazNUH?usp=sharing)
+**Tool.**
+The tool prototype and its manual are available for download here: [https://drive.google.com/drive/folders/17qACyFPDwLahBV_Z2Mxk2nNhKiJazNUH?usp=sharing](https://drive.google.com/drive/folders/17qACyFPDwLahBV_Z2Mxk2nNhKiJazNUH?usp=sharing).
 If you are interested and have the time (also if you can’t attend the workshop), we would like to ask you to try out the demo beforehand for 45 min, and fill in the survey here:
-[https://forms.gle/SS16xRUbUunsep4d6](https://forms.gle/SS16xRUbUunsep4d6)
+[https://forms.gle/SS16xRUbUunsep4d6](https://forms.gle/SS16xRUbUunsep4d6).
 We welcome your feedback and will use this to analyse experiences, determine goals and needs, and next steps to be taken regarding future development.
