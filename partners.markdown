@@ -5,7 +5,7 @@ permalink: /partners/
 ---
 <img src="/assets/HvA.png" style="height:50px; margin-top: 10px; margin-left: 10px; margin-right: 20px;"/>
 <img src="/assets/CWI.png" style="height:60px; margin-top: 10px; margin-left: 20px; margin-right: 20px;"/>
-<img src="/assets/DGA.png" style="height:80px; margin-top: 10px; margin-left: 10px; margin-right: 20px;"/>
+<img src="/assets/DGA.png" style="height:60px; margin-top: 10px; margin-left: 10px; margin-right: 20px;"/>
 <img src="/assets/Codeglue.png" style="height:50px; margin-top: 10px; margin-left: 20px; margin-right: 20px;"/>
 <img src="/assets/FourceLabs.png" style="height:60px; margin-top: 10px; margin-left: 20px; margin-right: 20px;"/>
 
