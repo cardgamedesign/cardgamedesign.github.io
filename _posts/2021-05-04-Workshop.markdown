@@ -18,7 +18,7 @@ Attendance is free, but registration is required, by sending a reply to Anders B
 The workshop is accessible through the following link: [https://meet.google.com/tth-bocg-mmr](https://meet.google.com/tth-bocg-mmr)
 
 **Abstract.**
-Card game design is a well-known technique for prototyping turn-based card games in particular and interactive experiences in general.
+Card game prototyping is a well-known technique for designing turn-based card games in particular and interactive experiences in general.
 Card game prototypes enable designers to create physical metaphors that foreground a game’s rules for freely experimenting, play testing and exploring alternative designs, at a table in a mediated setting.
 We aim to empower designers with a set of digital card game tools that help automate the design process.
 During this workshop, we present and discuss initial steps toward such a tool set.
