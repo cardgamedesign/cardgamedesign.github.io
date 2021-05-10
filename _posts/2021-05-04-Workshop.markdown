@@ -8,13 +8,8 @@ categories: project update
 
 ## Invitation
 <img src="/assets/cards_logo.png" style="float: right; width: 140px; margin-left: 20px; margin-right: 20px; margin-top: -20px;" />
-We cordially invite you to the *Workshop on Tools for Digital Card Game Design* on **May 11th 2021**, between 15:00 and 17:00. 
-The meeting takes place online via Google Meet video call.
+We cordially invite you to the *Workshop on Tools for Digital Card Game Design* on **May 11th 2021**, between 15:00 and 17:00, which takes place online via Google Meet.
 Please find the workshop description and program below.
-
-**Organization.**
-This workshop is organized by the lectorate Civic Interaction Design at the Amsterdam University of Applied Science (HvA) together with FourceLabs and the Software Analysis & Transformation group of Centrum Wiskunde Informatica (CWI), in the context of the DGA Gaming Field Lab project ‘A Digital Prototyping Tool for Card Game Design’.
-The organizers are: Karel Millenaar (FourceLabs/HvA), Anders Bouwer (HvA) and Riemer van Rozen (CWI).
 
 **Register.**
 Attendance is free, but registration is required, by sending a reply to Anders Bouwer: [a.j.bouwer@hva.nl](a.j.bouwer@hva.nl).
@@ -44,3 +39,22 @@ The tool prototype and its manual are available for download here: [https://driv
 If you are interested and have the time (also if you can’t attend the workshop), we would like to ask you to try out the demo beforehand for 45 min, and fill in the survey here:
 [https://forms.gle/SS16xRUbUunsep4d6](https://forms.gle/SS16xRUbUunsep4d6).
 We welcome your feedback and will use this to analyse experiences, determine goals and needs, and next steps to be taken regarding future development.
+
+**Organization.**
+This workshop is organized by the lectorate Civic Interaction Design at the Amsterdam University of Applied Science (HvA) together with FourceLabs and the Software Analysis & Transformation group of Centrum Wiskunde Informatica (CWI), in the context of the DGA Gaming Field Lab project ‘A Digital Prototyping Tool for Card Game Design’.
+The workshop organizers are: Karel Millenaar (FourceLabs/HvA), Anders Bouwer (HvA) and Riemer van Rozen (CWI).
+
+**Project Team.**
+* Anders Bouwer, Researcher & Lecturer @ Amsterdam University of Applied Sciences (HvA)
+* Riemer van Rozen, Researcher @ Centrum Wiskunde & Informatica (CWI)
+* Midas Buitink, Student @ Amsterdam University of Applied Sciences (HvA)
+ 
+**Project partners.**
+* Karel Millenaar, Creative Director @ FourceLabs
+* Peter de Jong, Co-founder & director @ Code-glue
+ 
+**Financed by.**
+* DGA Gaming Fieldlab, Dutch Games Association, supported by ClickNL, with Co-financing by business partners.
+ 
+**Contact.**
+* Anders Bouwer: a.j.bouwer@hva.nl
