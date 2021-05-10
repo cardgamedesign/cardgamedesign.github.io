@@ -44,17 +44,5 @@ We welcome your feedback and will use this to analyse experiences, determine goa
 This workshop is organized by the lectorate Civic Interaction Design at the Amsterdam University of Applied Science (HvA) together with FourceLabs and the Software Analysis & Transformation group of Centrum Wiskunde Informatica (CWI), in the context of the DGA Gaming Field Lab project ‘A Digital Prototyping Tool for Card Game Design’.
 The workshop organizers are: Karel Millenaar (FourceLabs/HvA), Anders Bouwer (HvA) and Riemer van Rozen (CWI).
 
-**Project Team**
-* Anders Bouwer, Researcher & Lecturer @ Amsterdam University of Applied Sciences (HvA)
-* Riemer van Rozen, Researcher @ Centrum Wiskunde & Informatica (CWI)
-* Midas Buitink, Student @ Amsterdam University of Applied Sciences (HvA)
- 
-**Project partners**
-* Karel Millenaar, Creative Director @ FourceLabs
-* Peter de Jong, Co-founder & director @ Code-glue
- 
-**Funding**
-* DGA Gaming Fieldlab, Dutch Games Association, supported by ClickNL, with Co-financing by business partners.
- 
 **Contact**
 * Anders Bouwer: [a.j.bouwer@hva.nl](a.j.bouwer@hva.nl)
