@@ -27,15 +27,14 @@ We show a tool prototype (described in more detail below), not as a solution for
 ### Program
 The following program is tentative and may still change.
 
-| Time                 | Activity                                        |
-|:---------------------|:------------------------------------------------|
-| 15:00 - 15:10   | Welcome                              |
-| 15:10 - 15:40   | Presentation and demonstration       |
-| 15:40 - 16:00   | Coffee break                         |
-| 16:00 - 17:00   | Feedback and discussion              |
+| Time                 | Activity                                  |
+|:---------------------|:------------------------------------------|
+| 15:00 - 15:10   | Welcome                                        |
+| 15:10 - 15:40   | Presentation and prototype demonstration       |
+| 15:40 - 16:00   | Coffee break                                   |
+| 16:00 - 17:00   | Feedback and discussion                        |
 
-
-### Tool Prototype
+**Tool Prototype.**
 The tool prototype and its manual are available for download here: [https://drive.google.com/drive/folders/17qACyFPDwLahBV_Z2Mxk2nNhKiJazNUH?usp=sharing](https://drive.google.com/drive/folders/17qACyFPDwLahBV_Z2Mxk2nNhKiJazNUH?usp=sharing).
 If you are interested and have the time (also if you can’t attend the workshop), we would like to ask you to try out the demo beforehand for 45 min, and fill in the survey here:
 [https://forms.gle/SS16xRUbUunsep4d6](https://forms.gle/SS16xRUbUunsep4d6).
