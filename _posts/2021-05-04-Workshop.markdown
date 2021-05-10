@@ -8,7 +8,7 @@ categories: project update
 
 ## Invitation
 <img src="/assets/cards_logo.png" style="float: right; width: 140px; margin-left: 20px; margin-right: 20px; margin-top: -20px;" />
-We cordially invite you to the *Workshop on Tools for Digital Card Game Design* on **May 11th 2021**, between 15:00 and 17:00, which takes place online via Google Meet.
+We cordially invite you to the *Workshop on Tools for Digital Card Game Design* on **May 11th 2021**, between 15:00 and 17:00, which takes place on Google Meet.
 Please find the workshop description and program below.
 
 **Register.**
