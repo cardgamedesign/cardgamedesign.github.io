@@ -17,16 +17,6 @@ Attendance is free, but registration is required, by sending a reply to Anders B
 **Google Meets link.**
 The workshop is accessible through the following link: [https://meet.google.com/tth-bocg-mmr](https://meet.google.com/tth-bocg-mmr)
 
-### Program
-The following program is tentative and may still change.
-
-| Time                 | Activity                                        |
-|:---------------------|:------------------------------------------------|
-| 15:00 - 15:10   | Welcome                              |
-| 15:10 - 15:40   | Presentation and demonstration       |
-| 15:40 - 16:00   | Coffee break                         |
-| 16:00 - 17:00   | Feedback and discussion              |
-
 **Abstract.**
 Card game design is a well-known technique for prototyping turn-based card games in particular and interactive experiences in general.
 Card game prototypes enable designers to create physical metaphors that foreground a game’s rules for freely experimenting, play testing and exploring alternative designs, at a table in a mediated setting.
@@ -40,21 +30,33 @@ If you are interested and have the time (also if you can’t attend the workshop
 [https://forms.gle/SS16xRUbUunsep4d6](https://forms.gle/SS16xRUbUunsep4d6).
 We welcome your feedback and will use this to analyse experiences, determine goals and needs, and next steps to be taken regarding future development.
 
-**Organization.**
+
+### Program
+The following program is tentative and may still change.
+
+| Time                 | Activity                                        |
+|:---------------------|:------------------------------------------------|
+| 15:00 - 15:10   | Welcome                              |
+| 15:10 - 15:40   | Presentation and demonstration       |
+| 15:40 - 16:00   | Coffee break                         |
+| 16:00 - 17:00   | Feedback and discussion              |
+
+
+### Organization
 This workshop is organized by the lectorate Civic Interaction Design at the Amsterdam University of Applied Science (HvA) together with FourceLabs and the Software Analysis & Transformation group of Centrum Wiskunde Informatica (CWI), in the context of the DGA Gaming Field Lab project ‘A Digital Prototyping Tool for Card Game Design’.
 The workshop organizers are: Karel Millenaar (FourceLabs/HvA), Anders Bouwer (HvA) and Riemer van Rozen (CWI).
 
-**Project Team.**
+**Project Team**
 * Anders Bouwer, Researcher & Lecturer @ Amsterdam University of Applied Sciences (HvA)
 * Riemer van Rozen, Researcher @ Centrum Wiskunde & Informatica (CWI)
 * Midas Buitink, Student @ Amsterdam University of Applied Sciences (HvA)
  
-**Project partners.**
+**Project partners**
 * Karel Millenaar, Creative Director @ FourceLabs
 * Peter de Jong, Co-founder & director @ Code-glue
  
-**Financed by.**
+**Funding**
 * DGA Gaming Fieldlab, Dutch Games Association, supported by ClickNL, with Co-financing by business partners.
  
-**Contact.**
-* Anders Bouwer: a.j.bouwer@hva.nl
+**Contact**
+* Anders Bouwer: [a.j.bouwer@hva.nl](a.j.bouwer@hva.nl)
